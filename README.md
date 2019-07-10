@@ -80,6 +80,8 @@ https://en.wikipedia.org/wiki/Aircraft_design_process - Aircraft design process 
 
 https://www.reddit.com/r/chess/comments/7eq3j9/please_dont_buy_the_hype_with_this_obsessive/ - Apparently relevant to plane building -> investigate
 
+https://www.flightgear.org/ - Open-source flight simulator
+
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
