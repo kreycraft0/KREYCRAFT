@@ -75,7 +75,7 @@ https://www.bbc.com/news/world-africa-48914418 - Some ~~kid~~ teenager built a p
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
-https://youtu.be/akoJ2zBwX1o - Hugeass model of an BOEING 747-400 => Few of these in my design will be probably required.
+https://youtu.be/akoJ2zBwX1o - Hugeass model of an BOEING 747-400 => Few of these in my design will be probably required. Seems as terrible idea to take inspiration from since it seems to be fake clickbait 
 
 https://youtu.be/3R5npPftLys - Reference for a failure
 - https://youtu.be/3R5npPftLys?t=27 = Approaching angle and speed was too high, design of a model has to be adapted for this scenario
