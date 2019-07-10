@@ -76,6 +76,8 @@ https://youtu.be/iv_rRus-X9k?t=66 - Failure analitics of light sport airplanes, 
 
 https://youtu.be/hcM5OokeBRc - Info about how autopilot works
 
+https://en.wikipedia.org/wiki/Aircraft_design_process - Aircraft design process based on wiki
+
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
