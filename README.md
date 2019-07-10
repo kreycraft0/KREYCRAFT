@@ -66,6 +66,8 @@ Experimental planes are relevant
  - Should have all tools needed on board to work on a plane -> I should be able to fully dissassemble the plane with the tools from it (abstracted)
 
 ## References
-Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE -> Cessna is able to fly over Atlantic Ocean, but not made for it(?)
+Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE - Cessna is able to fly over Atlantic Ocean, but not made for it(?)
 
-Relevant https://www.eaa.org -> Association focused on building planes
+Relevant https://www.eaa.org - Association focused on building airplanes
+
+Relevant https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
