@@ -82,6 +82,8 @@ https://www.reddit.com/r/chess/comments/7eq3j9/please_dont_buy_the_hype_with_thi
 
 https://www.flightgear.org/ - Open-source flight simulator
 
+https://www.youtube.com/watch?v=eNSN6qet1kE - Some guy buily a plane from wood and electric motors -> relevant?
+
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
