@@ -70,7 +70,9 @@ Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE - Cessna is able to fly ove
 
 Relevant https://www.eaa.org - Association focused on building airplanes
 
-https://www.bbc.com/news/world-africa-48914418 - Some ~~kid~~ teenager built a plane that flies
+https://www.bbc.com/news/world-africa-48914418 - Some ~~kid~~ teenager built a plane that flies, seems as terrible idea to take reference from since it seems to be fake and built as click bait.
+
+https://youtu.be/iv_rRus-X9k?t=66 - Failure analitics of light sport airplanes, seems relevant.
 
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
