@@ -4,7 +4,7 @@ Main repository of Kreycraft project (RXT098)
 This project is **WORK IN PROGRESS**
 
 ## Motivation
-This is how far from a Brno in a car based on oalley www.oalley.net/map/uhy this project should improve the range that i currently have for 30 mins, 1h, 3h, 5h, 7h, 10h, 11h, 12h where 8 hours of a travel is least comfortable assuming that distance between brno and bremen (8 hour and +- 30mins of travel) is 767km which would cost 22036CZK (967.18 USD) assuming fuel costing 28 CZK (1.23 USD) per litre of Diesel.
+This is how far from a Brno in a car based on oalley www.oalley.net/map/uhy this project should improve the range that i currently have for 30 mins, 1h, 3h, 5h, 7h, 10h, 11h, 12h where 8 hours of a travel is least comfortable assuming that distance between brno and bremen (8 hour and +- 30mins of travel) is 767km which would cost 22036CZK (967.18 USD) assuming fuel costing 28 CZK (1.23 USD) per litre of Diesel where comfortable cost is around 3000 CZK (131.68 USD) both ways.
 ![](https://i.imgur.com/WSRk9U1.png)
 
 ## Abstract
