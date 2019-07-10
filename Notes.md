@@ -15,6 +15,9 @@ Experimental planes are relevant
 - Software should be 'super strict' on any error message assuming that all parts of the place would be monitored in set interval and procedure.
 - Should be running Linux kernel or ideally Redox Kernel
 - Should allow plane to be driven remotely for testing.
+- Should have on-board voice recognization
+- Should have AI
+  - AI has to be able to identify problems and apply solutions as they happend if it's able to fix them. 
 
 ### Hardware
 - Design of the plane should be open-source and available to everyone to build a community around to get free QA and sanity checks + improvements.
@@ -30,6 +33,7 @@ Experimental planes are relevant
   - Forcing environment around a pack that won't allow fire from beeing created and only melts the batteries untill pack is removed and safely 'stabilized'?
   - Making a custom battery pack that in case of failure burns in expected way that won't affect the airplane assuming situation where pack fails mid-air? 
   - Nuclear? Sounds crazy, but it might be a better alternative to lithium.
+ - 1:10 model inside of a plane with ability to test results of possible outcomes in small scale?
 
 ## References
 Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE -> Cessna is able to fly over Atlantic Ocean, but not made for it(?)
