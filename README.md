@@ -70,6 +70,14 @@ Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE - Cessna is able to fly ove
 
 Relevant https://www.eaa.org - Association focused on building airplanes
 
-Relevant https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
+### Plane model references
+https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
-Relevant https://youtu.be/akoJ2zBwX1o - Hugeass model of an BOEING 747-400 => Few of these in my design will be probably required.
+https://youtu.be/akoJ2zBwX1o - Hugeass model of an BOEING 747-400 => Few of these in my design will be probably required.
+
+https://youtu.be/3R5npPftLys - Reference for a failure
+- https://youtu.be/3R5npPftLys?t=27 = Approaching angle and speed was too high, design of a model has to be adapted for this scenario
+- https://youtu.be/3R5npPftLys?t=32 = Apparently model is built from pine wood -> might be a good material for a model that scales to a real thing.
+- https://youtu.be/3R5npPftLys?t=46 = Apparently the design is very front heavy -> Models should be balanced
+- https://youtu.be/3R5npPftLys?t=98 = Notice landing with a one wheel -> This model design seems to be more easier to controll -> investigate why
+
