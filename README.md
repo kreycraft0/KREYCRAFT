@@ -74,6 +74,8 @@ https://www.bbc.com/news/world-africa-48914418 - Some ~~kid~~ teenager built a p
 
 https://youtu.be/iv_rRus-X9k?t=66 - Failure analitics of light sport airplanes, seems relevant.
 
+https://youtu.be/hcM5OokeBRc - Info about how autopilot works
+
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
