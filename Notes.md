@@ -1,7 +1,7 @@
 ## Abstract
 Make an open-source design for an airplace and ways to construct it
 
-This is how far i can get in a car under 12 hours from a Brno in a car based on oalley www.oalley.net/map/uhy this project should improve the range that i currently have for 30 mins, 1h, 3h, 5h, 7h, 10h, 11h, 12h.
+This is how far from a Brno in a car based on oalley www.oalley.net/map/uhy this project should improve the range that i currently have for 30 mins, 1h, 3h, 5h, 7h, 10h, 11h, 12h.
 ![](https://i.imgur.com/WSRk9U1.png)
 
 
