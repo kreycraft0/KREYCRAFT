@@ -84,6 +84,8 @@ https://www.flightgear.org/ - Open-source flight simulator
 
 https://www.youtube.com/watch?v=eNSN6qet1kE - Some guy buily a plane from wood and electric motors -> relevant?
 
+https://www.youtube.com/watch?v=k5BivSNiH8s - *Don't eat the big one stupid* -> Sanity check your results
+
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
