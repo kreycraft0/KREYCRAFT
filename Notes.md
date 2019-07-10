@@ -18,6 +18,7 @@ Experimental planes are relevant
 - Should have on-board voice recognization
 - Should have AI
   - AI has to be able to identify problems and apply solutions as they happend if it's able to fix them. 
+- No binarry packages -> Everything should be compiled to achieve optimal optimization of software.
 
 ### Hardware
 - Design of the plane should be open-source and available to everyone to build a community around to get free QA and sanity checks + improvements.
