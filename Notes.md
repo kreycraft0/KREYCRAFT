@@ -9,6 +9,17 @@ Flying over atlantic in single engine plane is not recommended.(?)
 
 Experimental planes are relevant
 
+## Blockers
+### Legal
+- Flying licence
+- Certification on mechanic (mandatory per 100h costs 900$ [verification needed])
+- Certification on parts 
+### Practical
+- Hangar + Runway
+- Electric motor research
+- Power management research
+- Model building practice for aerodynamic testing
+
 ## Perfect plane
 ### Software
 - Running open-source software written in rustlang/c++ (high-performance programming lang in general) with community of maintainers and contributors 
