@@ -71,3 +71,5 @@ Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE - Cessna is able to fly ove
 Relevant https://www.eaa.org - Association focused on building airplanes
 
 Relevant https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
+
+Relevant https://youtu.be/akoJ2zBwX1o - Hugeass model of an BOEING 747-400 => Few of these in my design will be probably required.
