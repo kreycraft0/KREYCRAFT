@@ -35,6 +35,19 @@ Experimental planes are relevant
   - Making a custom battery pack that in case of failure burns in expected way that won't affect the airplane assuming situation where pack fails mid-air? 
   - Nuclear? Sounds crazy, but it might be a better alternative to lithium.
  - 1:10 model inside of a plane with ability to test results of possible outcomes in small scale?
+ - Should have a place to sleep
+ - Should have an air conditioner
+ - Should have an air filter
+ 
+ ### Maintainance
+ - Maintainance should be done by me and software
+ - All parts should have CAD model so that i would be able to make them on demand
+ - This plane should be 0 cost maintanance as much as possible
+ - Plane should generate a text log of events for diagnostics.
+ - Everyone should be able to build the plane assuming required skillset -> More ppl using same design the most contributions it's gonna get -> less work for me with more effective outcome.
+ 
+ ### Equipment
+ - Should have all tools needed on board to work on a plane -> I should be able to fully dissassemble the plane with the tools from it (abstracted)
 
 ## References
 Relevant https://www.youtube.com/watch?v=W9Uf-ynoDUE -> Cessna is able to fly over Atlantic Ocean, but not made for it(?)
