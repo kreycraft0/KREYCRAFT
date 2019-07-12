@@ -23,7 +23,11 @@ Experimental planes are relevant
 - Hangar + Runway
 - Electric motor research
 - Power management research
-- Model building practice for aerodynamic testing
+- Model building practice for aerodynamic testing || 
+
+## Organization
+1) Start with the engine
+2) 
 
 ## Perfect plane
 ### Software
@@ -86,6 +90,39 @@ https://www.youtube.com/watch?v=eNSN6qet1kE - Some guy buily a plane from wood a
 
 https://www.youtube.com/watch?v=k5BivSNiH8s - *Don't eat the big one stupid* -> Sanity check your results
 
+https://youtu.be/IaFolrcK2Lg - Budget planes
+- Cessna 150 - 20K USD used
+  - Is slow (103 kts)
+  - Range: 300 NM
+  - Fuel consumption: 5GPH
+  - Useful load: 303 lbs
+  - high-wing airplane
+- Cessna 172 - 29K USD used
+  - Range: 435 NM
+  - Cruise speed: 115 kts
+  - Useful load: 930 lbs
+  - Fuel consumption: 8 GPH
+  - Most used airplane for training
+  - high-wing airplane
+- Piper Cherokee - 25K USD used
+  - Low-wing airplane
+  - Range: 455 NM
+  - Cruise speed: 110 kts (depends on the model)
+  - Useful load: 900 lbs
+  - Fuel consumption: 8 GPH
+- Grumman AA1A - 18K USD used
+  - Range: 350 NM
+  - Cruise speed: 109 kts
+  - Useful load: 1007 lbs
+  - Fuel consumption: 6 GPH
+- Sonex - 20~24K USD used
+  - Experimental airplane, not certefied
+  - Comes as kit
+  - Range: 500 NM
+  - Cruise speed: 113 kts
+  - Useful load: 480 lbs
+  - Fuel consumption: 4GPH
+  
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
 
