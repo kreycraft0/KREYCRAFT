@@ -147,8 +147,10 @@ https://youtu.be/0vUhzxzuIdE - Reference on high-end airplanes
   - Cruise speed: 146 kts
   - Fuel consumption: 5gal/hr
   - Price: 151K USD
-- Tarragon
-  - 
+- Diamond Dart 450 - 3M USD
+  - Cruise speed: 250 kts 
+  - Engine: unknown
+![](https://youtu.be/0vUhzxzuIdE?t=575)
   
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
