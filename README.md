@@ -69,7 +69,11 @@ Relevant: https://youtu.be/YBLVaABtQJw?list=PLO6tMbMVaApFnINcth7WbWrAscz9AWEun
  - Should have an air filter
  
  ### Control over the airplane
- TODO
+ TODO - Blocked by Pilot licence for experience
+ 
+Dual stick?
+
+Single stick?
  
  ### Maintainance
  - Maintainance should be done by me and software
