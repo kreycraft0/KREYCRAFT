@@ -150,6 +150,7 @@ https://youtu.be/0vUhzxzuIdE - Reference on high-end airplanes
 - Diamond Dart 450 - 3M USD
   - Cruise speed: 250 kts 
   - Engine: unknown
+  
 ![](https://youtu.be/0vUhzxzuIdE?t=575)
   
 ### Plane model references
