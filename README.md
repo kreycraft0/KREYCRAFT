@@ -24,6 +24,7 @@ Experimental planes are relevant
 - Electric motor research
 - Power management research
 - Model building practice for aerodynamic testing || Computer simulation?
+- Carbon fiber research
 ### Equipment 
 TODO
 
