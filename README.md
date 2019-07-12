@@ -68,6 +68,9 @@ Relevant: https://youtu.be/YBLVaABtQJw?list=PLO6tMbMVaApFnINcth7WbWrAscz9AWEun
  - Should have an air conditioner
  - Should have an air filter
  
+ ### Control over the airplane
+ TODO
+ 
  ### Maintainance
  - Maintainance should be done by me and software
  - All parts should have CAD model so that i would be able to make them on demand
@@ -140,6 +143,8 @@ https://youtu.be/0vUhzxzuIdE - Reference on high-end airplanes
   - Cruise speed: 146 kts
   - Fuel consumption: 5gal/hr
   - Price: 151K USD
+- Tarragon
+  - 
   
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
