@@ -23,7 +23,11 @@ Experimental planes are relevant
 - Hangar + Runway
 - Electric motor research
 - Power management research
-- Model building practice for aerodynamic testing || 
+- Model building practice for aerodynamic testing || Computer simulation?
+### Equipment 
+TODO
+
+Relevant: https://youtu.be/YBLVaABtQJw?list=PLO6tMbMVaApFnINcth7WbWrAscz9AWEun
 
 ## Organization
 1) Start with the engine
