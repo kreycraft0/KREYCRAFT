@@ -133,6 +133,13 @@ https://youtu.be/IaFolrcK2Lg - Budget planes
   - Fuel consumption: 4GPH
   
 https://www.sonexaircraft.com/video-tips/ - Build tips
+
+https://youtu.be/0vUhzxzuIdE - Reference on high-end airplanes
+- Shark airplane
+  - Rotax 912 engine
+  - Cruise speed: 146 kts
+  - Fuel consumption: 5gal/hr
+  - Price: 151K USD
   
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
