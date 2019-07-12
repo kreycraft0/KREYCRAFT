@@ -27,7 +27,11 @@ Experimental planes are relevant
 
 ## Organization
 1) Start with the engine
-2) 
+2) Build a design assuming specs of an engine
+3) Sanitization
+4) raw hardware + software
+5) small scale test
+6) Full scale test
 
 ## Perfect plane
 ### Software
@@ -122,6 +126,8 @@ https://youtu.be/IaFolrcK2Lg - Budget planes
   - Cruise speed: 113 kts
   - Useful load: 480 lbs
   - Fuel consumption: 4GPH
+  
+https://www.sonexaircraft.com/video-tips/ - Build tips
   
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
