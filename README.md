@@ -154,6 +154,8 @@ https://youtu.be/0vUhzxzuIdE - Reference on high-end airplanes
 ![](https://youtu.be/0vUhzxzuIdE?t=575)
 
 https://youtu.be/RN6vGxyMcVU - Backwards wings, reference for failure/potential design?
+- Bernoulli's principle is relevant for wing design
+- Aerofoil - ?
   
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
