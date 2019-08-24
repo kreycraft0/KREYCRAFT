@@ -157,6 +157,11 @@ https://youtu.be/RN6vGxyMcVU - Backwards wings, reference for failure/potential 
 - Bernoulli's principle is relevant for wing design
 - Aerofoil - ?
 - Backwards sweap wing is recommended(?) for transonic and supersonic speed.
+
+https://dsa.cz/index.php/archiv-aktualit/146-tiskove-prohlaseni - Fatal crash of Enstrom 480
+- Reason: Unknown: Investigation needed and design should be adapted.
+- News: https://www.idnes.cz/hradec-kralove/zpravy/nehoda-vrtulnik-slavonov-nachodsko.A190322_094824_hradec-zpravy_klu
+  - Suspects crash with a wild life -> Can we adapt design to be more robust in terms of crash with a wild life so that result of colusion wouldn't end up as fatal?
   
 ### Plane model references
 https://youtu.be/OOW-gsL46ds - Foam for a **model** of airplanes
